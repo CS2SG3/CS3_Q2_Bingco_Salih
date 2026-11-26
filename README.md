@@ -1,5 +1,5 @@
 # CS3_Q2_Bingco_Salih
-Study Tips for Programming
+Studying alone for Computer Science can be tiring which is why this repository will be used as a collaborative project on helping students study for Computer Science.
 
 1. Practice Problems everyday
 2. Watch Informative coding videos
