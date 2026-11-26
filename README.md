@@ -15,3 +15,10 @@ Git Best Practices
 4. Use branches for individual features.
 5. Review code before merging.
 
+
+Helpful Learning Resources
+
+1. W3Schools - Beginner-friendly programming tutorials.
+2. freeCodeCamp - Interactive coding lessons and exercises.
+3. GeeksforGeeks - Programming explanations and practice problems.
+4. Python Documentation - Official guides and references for Python.
