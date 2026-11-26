@@ -1,7 +1,5 @@
 CS3_Q2_Bingco_Salih
 
-Studying Computer Science alone can be tiring, which is why this repository will serve as a collaborative space where students can learn, practice, and help each other improve their programming skills.
-
 1. Practice Problems Everyday – Consistently solve programming problems to improve your logical thinking and problem-solving skills.
 2. Watch Informative Coding Videos – Explore tutorials and educational videos to better understand programming concepts.
 3. Ask Advice from Your Teachers – Don't hesitate to ask questions and seek guidance whenever you encounter difficulties.
