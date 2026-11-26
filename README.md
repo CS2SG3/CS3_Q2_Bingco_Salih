@@ -7,6 +7,14 @@ CS3_Q2_Bingco_Salih
 5. Don't Let AI Do Your Work – Use AI as a learning tool, not as a replacement for your own understanding and effort.
 6. Be Attentive – Pay attention to discussions, instructions, and details when learning new concepts.
 
+Git Best Practices
+
+1. Commit changes regularly.
+2. Write clear commit messages.
+3. Pull the latest changes before working.
+4. Use branches for individual features.
+5. Review code before merging.
+
 
 Helpful Learning Resources
 
