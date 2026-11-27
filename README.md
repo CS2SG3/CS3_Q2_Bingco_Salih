@@ -14,3 +14,10 @@ Git Best Practices
 3. Pull the latest changes before working - Keep your local repository updated to avoid conflicts with your teammates' work.
 4. Use branches for individual features - Work on separate branches to keep the main branch organized and stable.
 5. Review code before merging - Check for errors, unnecessary changes, and improvements before merging a branch into the main branch.
+
+Helpful Learning Resources
+
+1. W3Schools - Beginner-friendly programming tutorials.
+2. freeCodeCamp - Interactive coding lessons and exercises.
+3. GeeksforGeeks - Programming explanations and practice problems.
+4. Python Documentation - Official guides and references for Python.
