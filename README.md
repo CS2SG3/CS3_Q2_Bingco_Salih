@@ -9,12 +9,11 @@ CS3_Q2_Bingco_Salih
 
 Git Best Practices
 
-1. Commit changes regularly.
-2. Write clear commit messages.
-3. Pull the latest changes before working.
-4. Use branches for individual features.
-5. Review code before merging.
-
+1. Commit changes regularly - Save your progress frequently to keep track of your work and avoid losing important changes.
+2. Write clear commit messages - Use short and meaningful descriptions to explain what you changed.
+3. Pull the latest changes before working - Keep your local repository updated to avoid conflicts with your teammates' work.
+4. Use branches for individual features - Work on separate branches to keep the main branch organized and stable.
+5. Review code before merging - Check for errors, unnecessary changes, and improvements before merging a branch into the main branch.
 
 Helpful Learning Resources
 
